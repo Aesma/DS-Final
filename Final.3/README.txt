@@ -1,0 +1,1 @@
+本地搜索工具的QT实现。类似Everything.

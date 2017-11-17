@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Disk" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgJAAAAAAAAAAgAAAIAAAAAgAAAEAABAAgANAgAAA=</HashCode>
+      <FileName>Disk.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphmtx" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEQAAAEASGoEAAIEAAgAgAAABAAAAAAgASABQAA=</HashCode>
+      <FileName>Graphmtx.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TeamClass" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAABCAAAAAACABAAEBABAAAABIQAAA=</HashCode>
+      <FileName>Team.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="List">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADAAEAAAAQAAAAAgAEAAAAAAgAAAAAAAQAAQAQgAAI=</HashCode>
+      <FileName>List.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyClass" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEBDQAAAAAACAAAAAAAAAAAAAIAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TeamDialog" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA=</HashCode>
+      <FileName>teamDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Calculate">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAABBAAAAAAAAAAAAAAEAAABAAAAAAAgACAAAAAEAAA=</HashCode>
+      <FileName>QCalculate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiskDialog" Collapsed="true">
+    <Position X="12.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>diskDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ListDialog">
+    <Position X="3.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAACAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>listDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_teamDialog" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAQAIAAAAIAgAEAAJAA=</HashCode>
+      <FileName>GeneratedFiles\ui_team.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_Form" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAQCAAAAEAAAAQIIAAIAAAABEAABAA=</HashCode>
+      <FileName>GeneratedFiles\ui_Wood.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_diskDialog" Collapsed="true">
+    <Position X="11.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAQAIAAAAIAgAEAAJAA=</HashCode>
+      <FileName>GeneratedFiles\ui_disk.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_listDialog" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAQAEAAgAQAIAAAAIAAAEAABAA=</HashCode>
+      <FileName>GeneratedFiles\ui_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_MyClassClass" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAEAAAAAAAEAAABAgAQAIAAAgIAAAAAAAEA=</HashCode>
+      <FileName>GeneratedFiles\ui_myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::teamDialog" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_team.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::Form" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_Wood.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::diskDialog" Collapsed="true">
+    <Position X="7.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_disk.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::listDialog">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::MyClassClass" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Logic" Collapsed="true">
+    <Position X="13" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAIAAAAAAAAAAAAAAAAAAAABCAAAAAAAAA=</HashCode>
+      <FileName>Disk.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Node" Collapsed="true">
+    <Position X="14.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQQAAMAAAA=</HashCode>
+      <FileName>List.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Wood" Collapsed="true">
+    <Position X="14.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAgAAAAEAAAIAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>QCalculate.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_DiskDialog_t" Collapsed="true">
+    <Position X="13" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_diskDialog.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_ListDialog_t" Collapsed="true">
+    <Position X="14.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_listDialog.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_MyClass_t" Collapsed="true">
+    <Position X="11.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_myclass.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_Calculate_t" Collapsed="true">
+    <Position X="11.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_QCalculate.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_TeamDialog_t" Collapsed="true">
+    <Position X="13" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_teamDialog.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="`anonymous-namespace'::initializer" Collapsed="true">
+    <Position X="11.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAEA=</HashCode>
+      <FileName>GeneratedFiles\qrc_myclass.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
